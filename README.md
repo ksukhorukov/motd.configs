@@ -34,7 +34,7 @@ drwxr-xr-x 75 root root 4096 Jan  3 23:41 ..
 -rwxr-xr-x  1 root root   41 Jan  3 23:48 90-fortune
 ```
 
-Use your favorite editor, for instance (VIM)[https://www.vim.org] in order to edit files right from the console and copy all files from here to this directory.
+Use your favorite editor, for instance [VIM](https://www.vim.org) in order to edit files right from the console and copy all files from here to this directory.
 
 Thats it!
 
