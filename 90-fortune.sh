@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
-OUT=`/usr/games/fortune`
+FORTUNE_PATH=`which fortune`
 
-echo -e "\n$OUT\n"
+OUT=`$FORTUNE_PATH`
+
+echo -e "\n\033[0;31m$OUT\n\033[0m"
